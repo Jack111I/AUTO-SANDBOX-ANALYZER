@@ -2,7 +2,7 @@
 A safe static-analysis sandbox that examines unknown files (exe, pdf, docx, js, py) without executing them, extracting strings, metadata, imports, URLs, and suspicious patterns.
 # 🧪 
 
-A safe static-analysis sandbox written in Python that analyzes unknown files WITHOUT executing them.
+A safe static-analysis
 
 ## Features
 - Extract file metadata
